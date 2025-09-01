@@ -21,7 +21,7 @@ In this project, I will be configuring the open-source ticketing system osTicket
 - Configure Departments (to simulate a large company with multiple IT branches)
 - Configure Teams (to group agents from different departments)
 - Confiure Agents (individual employees)
-- Configure End-Users (I only made one for the sake of this project)
+- Configure End-Users (customers)
 - Configure SLA (to determine the severity of a ticket)
 - Configure Help Topics (to better sort/classify incoming tickets)
 
