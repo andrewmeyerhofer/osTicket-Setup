@@ -15,7 +15,7 @@ In this project, I will be configuring the open-source ticketing system osTicket
 
 - Windows 11</b> (24H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Configuration Objectives</h2>
 
 - Configure Roles (for grouping permissions)
 - Configure Departments (to simulate a large company with multiple IT branches)
