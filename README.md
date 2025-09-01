@@ -9,7 +9,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket (Open Source Ticketing System)
 
 <h2>Operating Systems Used </h2>
 
@@ -17,11 +17,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles (for grouping permissions)
+- Configure Departments (to simulate a large company with multiple IT branches)
+- Configure Teams (to group agents from different departments)
+- Confiure Agents (individual employees)
+- Configure End-Users (I only made one for the sake of this project)
+- Configure SLA (to determine the severity of a ticket)
+- Configure Help Topics (to better sort/classify incoming tickets)
 
 <h2>Configuration Steps</h2>
 
