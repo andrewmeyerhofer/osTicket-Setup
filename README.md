@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-In this project, I will be configuring the open-source ticketing system osTicket for use in my "osTicket-simulation" project (installation completed in the osTicket-Install project). The the resources used and objectives of this project are listed below.<br />
+In this project, I will be configuring the open-source ticketing system osTicket for use in my "osTicket-Simulation" project (installation completed in the osTicket-Install project). The the resources used and objectives of this project are listed below.<br />
 
 <h2>Environments and Technologies Used</h2>
 
