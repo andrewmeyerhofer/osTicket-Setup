@@ -2,7 +2,7 @@
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/64682542-313e-4d29-b846-fd0c2cb95e80" />
 </p>
 
-<h1>osTicket - Configuration and Setup</h1>
+<h1>osTicket - Post-Install Configuration</h1>
 In this project, I will be configuring the open-source ticketing system osTicket for use in my "osTicket-Simulation" project (installation completed in the osTicket-Install project). The the resources used and objectives of this project are listed below.<br />
 
 <h2>Environments and Technologies Used</h2>
