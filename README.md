@@ -32,7 +32,7 @@ In this project, I will be configuring the open-source ticketing system osTicket
 
 </p>
 <p>
-To start, I loaded the osTicket Staff Control Panel from the browser of my virtual machine. Upon logging in, I am greeted with the "Tickets" page within the Agent Panel.
+To start, I loaded the osTicket Staff Control Panel from the browser of my virtual machine. Upon logging in, I was greeted with the "Tickets" page within the Agent Panel.
 </p>
 <br />
 
