@@ -32,7 +32,7 @@ In this project, I will be configuring the open-source ticketing system osTicket
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To start, I loaded the osTicket Staff Control Panel from the browser of my virtual machine. Upon logging in, I am greeted with the "Tickets" page within the Agent Panel.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then clicked the "Admin Panel" button in the top right of the page. Being in the Admin Panel allows for the creation of new agents, teams, roles, and departments. In addition, I can assign Agents a team, role, or department and assign permissions. In this step, I went to the "Role" tab under the Agents page (all within the Admin Panel) and added a new role called "Supreme Admin." I also added the description "Full permissions" as an internal note.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I went to the permissions tab of the Supreme Admin role and checked every box. This will ensure that any user with the Supreme Admin role will have full access to all incoming tickets. I then clicked the "Add Role" button to offically create the role. 
 </p>
 <br />
 
