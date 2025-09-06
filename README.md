@@ -86,7 +86,7 @@ To prepare for the creation of Agents and Users, I went to the Users tab on the 
 
 </p>
 <p>
-
+I then went to the Agents tab on the Agents page to create an account for my helpdesk's first employee. I named the Agent "Jane Doe" and provided some filler information.
 </p>
 <br />
 
@@ -95,7 +95,7 @@ To prepare for the creation of Agents and Users, I went to the Users tab on the 
 
 </p>
 <p>
-I also gave her access to the online banking team.
+After adding the account information, I went to the access tab and made Jane part of the System Admins Department. I also gave her Supreme Admin level access and made her part of the online banking team. Finally, I clicked the create button and Jane was offically added to the helpdesk.
 <br />
 
 <p>
@@ -103,7 +103,7 @@ I also gave her access to the online banking team.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then went through the same process but for an Agent named "John Doe." I made John part of the Support Department, but set his access to view only. 
 </p>
 <br />
 
@@ -112,7 +112,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After I clicked create for John, the helpdesk Agents were all set up for this project. 
 </p>
 <br />
 
@@ -121,7 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then went to the Users page and clicked the Add User button to configure an account for an end-user. I named the user Karen, put in some filler information, and clicked the Add User button. 
 </p>
 <br />
 
@@ -130,7 +130,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the User Directory tab, you can view Karen's information, create a ticket using her account, register or delete the user, add internal notes, view previous tickets, and more. 
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, it was time to add some SLAs for my helpdesk. I went to the SLA tab under the Manage page, and clicked the Add New SLA Plan button. I named the first SLA "SevA" to represent the highest level of priority for incoming tickets. I gave the SLA a grace period of one hour, meaning there needs to be hourly updates on any SevA ticket. I also scheduled SevA tickets to be open 24/7, as these would be issues of great importance that need to be handled as soon as possible. Finally, I wrote a brief internal note and clicked the Add Plan button to finalize. 
 </p>
 <br />
 
@@ -148,7 +148,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then proceeded to create SLAs for SevB and SevC. SevB was created for moderately high priority tickets, and SevC was created for low priority tickets. All SLA plans are viewable and changeable on the SLA tab. These plans will help organize incoming tickets based on their perceived business impact. SevC tickets will be the most common, and will likely be processed in the order they are recieved.
 </p>
 <br />
 
@@ -157,7 +157,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I went to the Help Topics tab in the Manage page to create some new help topics. I clicked the Add New Help Topic button and labled the new topic "Business Critical Outage." I set the parent topic as Report a Problem, and added some brief internal notes. This specific help topic is meant to be used in the case of a critical problem that has a large effect on the business as a whole. 
 </p>
 <br />
 
@@ -166,7 +166,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Added help topics for Business Critical Outage, Equipment Request, Password Reset, Personal Computer Issues, and Other.
+Finally, I created four more help topics: Equipment Request, Password Reset, Personal Computer Issues, and Other. The Help Topics tab will show all of the created topics as well as some default ones, and they can be sorted and edited as needed. This concludes the Post-Install Configuration Project. 
 </p>
 <br />
 
