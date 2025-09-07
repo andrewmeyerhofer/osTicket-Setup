@@ -50,7 +50,7 @@ I then clicked the Admin Panel button in the top right of the page. Being in the
 
 </p>
 <p>
-Next, I went to the permissions tab of the Supreme Admin role and checked every box. This will ensure that any user with the Supreme Admin role will have full access to all incoming tickets. I then clicked the eAdd Role button to offically create the role. 
+Next, I went to the permissions tab of the Supreme Admin role and checked every box. This will ensure that any user with the Supreme Admin role will have full access to all incoming tickets. I then clicked the Add Role button to offically create the role. 
 </p>
 <br />
 
