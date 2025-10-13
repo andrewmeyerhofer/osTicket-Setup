@@ -50,7 +50,7 @@ I then clicked the Admin Panel button in the top right of the page. Being in the
 
 </p>
 <p>
-Next, I went to the permissions tab of the Supreme Admin role and checked every box. This will ensure that any user with the Supreme Admin role will have full access to all incoming tickets. I then clicked the Add Role button to offically create the role. 
+Next, I went to the permissions tab of the Supreme Admin role and checked every box. This will ensure that any user with the Supreme Admin role will have full access to all incoming tickets. I then clicked the Add Role button to officially create the role. 
 </p>
 <br />
 
@@ -95,7 +95,7 @@ I then went to the Agents tab on the Agents page to create an account for my hel
 
 </p>
 <p>
-After adding the account information, I went to the access tab and made Jane part of the System Admins Department. I also gave her Supreme Admin level access and made her part of the online banking team. Finally, I clicked the create button and Jane was offically added to the helpdesk.
+After adding the account information, I went to the access tab and made Jane part of the System Admins Department. I also gave her Supreme Admin level access and made her part of the online banking team. Finally, I clicked the create button and Jane was officially added to the helpdesk.
 <br />
 
 <p>
